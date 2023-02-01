@@ -3,12 +3,12 @@ const config = require('./src/config');
 module.exports = {
     pathPrefix: "/",
   siteMetadata: {
-    title: 'Ganapathi Naik | Senior Cloud Architect',
+    title: 'Ganapathi Naik | Software Developer',
     description:
-      'Ganapathi Naik  is a senior cloud architect who specializes in building cloud agnostic deployable modules .',
-    siteUrl: 'https://aritranag.com', // No trailing slash allowed!
+      'Ganapathi Naik  is a senior software architect who specializes in building cloud agnostic deployable modules .',
+    siteUrl: 'https://ganapathinaik.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@AritraNag4',
+    twitterUsername: '@ganapathi_naik',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -21,8 +21,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'AritraNag',
-        short_name: 'AritraNag',
+        name: 'GanapathiNaik',
+        short_name: 'GanapathiNaik',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

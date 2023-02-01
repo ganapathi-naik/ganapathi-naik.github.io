@@ -154,8 +154,8 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Hybrid Cloud Based System Designs and Solutions.', 'Server less solutions with Python', 'Micro Services with Spring Boot', 'Core Java with J2EE, Spring & jQuery', 'Developing IaaC Cloud Solutions using Aws CDK and terraform', 'Designing scalable and higly available solutions'];
-  const skills1 = ['Java/Spring boot', 'Python', 'Typescript and Nodejs', 'Terraform', 'Kubernetes', 'Docker'];
+  // const skills = ['Hybrid Cloud Based System Designs and Solutions.', 'Server less solutions with Python', 'Micro Services with Spring Boot', 'Core Java with J2EE, Spring & jQuery', 'Developing IaaC Cloud Solutions using Aws CDK and terraform', 'Designing scalable and higly available solutions'];
+  const skills = ['Java/Spring boot', 'Python', 'Typescript', 'Terraform', 'Kubernetes', 'Docker', 'Golang', 'Kafka', 'Nodejs', 'Couchbase'];
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">About Me</h2>
@@ -164,32 +164,14 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Aritra and I enjoy producing cloud agnostic infrastructure solutions. I am having more than 11 years of IT experience where I have got working experiences in Full stack technologies like Java, Python, TypeScript.
-              </p>
-              <p>  
-              I'm currently working as Senior Cloud Architect for an automation company where i build AWS cloud infrastructure and support development teams with producing solution patterns for deploying Java/Spring based microservices.</p>
-              <p>I am also fully certified in multiple Cloud Solutions provider{' '} <a href='https://www.credly.com/users/aritra-nag.873ccee4'>AWS</a> and possess Professional level certifications in {' '} <a href='https://sgq.io/HoGGxqg'>GCP</a>
+              Hello! My name is Ganapathi and I enjoy building software that is scalable, robust, and secure by design. My interest in software development started back in 2012 when I tried to build a simple website.
+              <br/>
+              During my college days, I heavily got interested in building Community Platform for Developers, Ednsquare — Blogging & QnA Platform It serves as a playground for developers to learn & share knowledge.
+              <br/>
+              Fast-forward to today, and I’ve had the privilege of working on large-scale enterprise software and solving challenging problems for customers.
+              <br/>
+              Here is a list of the technologies that I'm familiar with!
             </p>
-
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.infosys.com/">an consulting industry</a>,{' '}
-              <a href="https://www2.deloitte.com/">one of the big 4 audit enterprise</a>,{' '}
-              <a href="https://www.ericsson.com/">a huge corporation</a>, and{' '}
-              <a href="https://bico.com/">a start up</a>. My
-              main focus these days is upscaling customers cloud competence, building multi cloud solutions 
-                at <a href="https://nordcloud.com/">Nordcloud</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently presented{' '}
-              <a href="https://www.linkedin.com/posts/aritra-nag-1571a278_awssummit-infrastructureascode-cdk-activity-6930426514450591745-wpH0?utm_source=linkedin_share&utm_medium=member_desktop_web"> AWS Summit Stockholm,2022</a>,{' '}
-              that showcases the powers of AWS IaaC implementation for enterprise Software realm using AWS CDK
-              &amp; Java.
-            </p>
-
-            <p>Here is a list of the technologies that I'm familiar with!</p>
           </div>
 
           <ul className="skills-list">
