@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: 'Ganapathi Naik | Software Developer',
     description:
-      'Ganapathi Naik  is a senior software architect who specializes in building cloud agnostic deployable modules .',
+      'Ganapathi Naik is a senior software engineer who specialized in building large scale distributed systems.',
     siteUrl: 'https://ganapathinaik.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@ganapathi_naik',
