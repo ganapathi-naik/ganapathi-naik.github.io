@@ -2,7 +2,7 @@
 date: '2017-12-01'
 title: 'Serverless User Management Using AWS Cognito and Lambda'
 github: ''
-external: 'https://dzone.com/articles/serverless-user-management-using-aws-cognito-and-l'
+external: 'https://ganapathi-naik.medium.com/serverless-user-management-using-aws-cognito-and-lambda-7127a0de9b24'
 tech:
   - AWS
   - User Management
