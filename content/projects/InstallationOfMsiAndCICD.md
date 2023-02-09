@@ -2,7 +2,7 @@
 date: '2020-03-27'
 title: 'Enabling CI-CD and Generating MSI Installations'
 github: ''
-external: 'https://dzone.com/articles/azure-devops-pipeline-enabling-ci-cd-and-generatin'
+external: 'https://ganapathi-naik.medium.com/enabling-ci-cd-and-generating-msi-installations-de0cdd911f03'
 tech:
   - MSI installations
   - .net
