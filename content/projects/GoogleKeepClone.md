@@ -1,8 +1,8 @@
 ---
 date: '2018-12-29'
 title: 'Integration of Cryptography with Java'
-github: 'https://github.com/aritnag/java-cryptopgraphy-examples'
-external: 'https://dzone.com/articles/integration-of-java-cryptography-apis-with-certifi'
+github: 'https://github.com/ganapathi-naik/java-cryptopgraphy-examples'
+external: 'https://ganapathi-naik.medium.com/integrating-java-cryptography-apis-with-certificates-to-create-trust-chains-part-1-98d77926a9e4'
 tech:
   - Java
   - Cryptography
