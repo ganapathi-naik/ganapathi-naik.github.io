@@ -2,8 +2,9 @@
 date: '1'
 title: 'IaaC using CDK'
 cover: './IaacUsingAwsCDK.jpg'
-github: 'https://github.com/ganapathi-naik/Workflow-CDK-demo'
-external: 'https://medium.com/nordcloud-engineering/enterprise-implementation-of-infra-as-code-using-cdk-5d229e08b414/'
+external: 'https://ganapathi-naik.medium.com/enterprise-implementation-of-infra-as-code-using-cdk-4117ec09031a'
+cta: 'https://ganapathi-naik.medium.com/enterprise-implementation-of-infra-as-code-using-cdk-4117ec09031a'
+
 tech:
   - VS Code
   - Sublime Text
