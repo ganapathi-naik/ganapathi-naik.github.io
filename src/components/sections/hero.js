@@ -69,8 +69,8 @@ const Hero = () => {
         <br/>
         Currently working as a Senior Software Engineer at
         {' '}
-        <a href="https://www.uber.com/" target="_blank" rel="noreferrer">
-          Uber
+        <a href="https://www.amazon.com/" target="_blank" rel="noreferrer">
+          Amazon
         </a> and as a Freelance Content Writer for
         {' '}
         <a href="https://www.peppercontent.io/" target="_blank" rel="noreferrer">
