@@ -67,7 +67,7 @@ const Hero = () => {
         I’m a software engineer specializing in building (and occasionally designing) large scale Distributed systems & Softwares. I have an entrepreneurial mindset and I am interested in building exceptional products & experiences.
         <br/>
         <br/>
-        Currently working as a Senior Software Engineer at
+        Currently working as a Software Engineer at
         {' '}
         <a href="https://www.amazon.com/" target="_blank" rel="noreferrer">
           Amazon
