@@ -74,15 +74,15 @@ const Hero = () => {
         </a> and as a Freelance Content Writer for
         {' '}
         <a href="https://www.peppercontent.io/" target="_blank" rel="noreferrer">
-        Pepper Content.
-        </a>
+        Pepper Content
+        </a>.
         <br/>
         <br/>
         Outside work, I occasionally blog on
         {' '}
         <a href="https://ganapathi-naik.medium.com/" target="_blank" rel="noreferrer">
-        Medium.
-        </a> Off-screen, I sketch my thoughts
+        Medium
+        </a>. Off-screen, I sketch my thoughts
         {' '}
         <a href="https://instagram.com/its_ganapathi" target="_blank" rel="noreferrer">
         here
