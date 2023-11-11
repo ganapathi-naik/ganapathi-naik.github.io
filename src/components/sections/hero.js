@@ -67,22 +67,22 @@ const Hero = () => {
         I’m a software engineer specializing in building (and occasionally designing) large scale Distributed systems & Softwares. I have an entrepreneurial mindset and I am interested in building exceptional products & experiences.
         <br/>
         <br/>
-        Currently working as a Software Engineer at
+        Currently working as a Senior Software Engineer at
         {' '}
-        <a href="https://www.amazon.com/" target="_blank" rel="noreferrer">
-          Amazon
+        <a href="https://www.uber.com/" target="_blank" rel="noreferrer">
+          Uber
         </a> and as a Freelance Content Writer for
         {' '}
         <a href="https://www.peppercontent.io/" target="_blank" rel="noreferrer">
-        Pepper Content
-        </a>.
+        Pepper Content.
+        </a>
         <br/>
         <br/>
         Outside work, I occasionally blog on
         {' '}
         <a href="https://ganapathi-naik.medium.com/" target="_blank" rel="noreferrer">
-        Medium
-        </a>. Off-screen, I sketch my thoughts
+        Medium.
+        </a> Off-screen, I sketch my thoughts
         {' '}
         <a href="https://instagram.com/its_ganapathi" target="_blank" rel="noreferrer">
         here
