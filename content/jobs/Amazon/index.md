@@ -3,7 +3,7 @@ date: '2019-11-18'
 title: 'Software Development Engineer 2'
 company: 'Amazon'
 location: 'Bangalore'
-range: 'Nov 2019 - Present'
+range: 'Nov 2019 - Jan 2023'
 url: 'https://www.amazon.com/'
 ---
 
